@@ -8,7 +8,7 @@ To obtain the dataset used to learn the *2-TBN* structure, five collision situat
 * vehicles on two-way road; and
 * following vehicle making a lane change maneuver with traffic on the two lanes.
 
-A video showing each of the collision situations can be found in <https://www.youtube.com/watch?v=P_ASXVc7eGI>.
+A video showing each of the collision situations can be found in <https://youtu.be/0TZkJ7lnF0E>.
 
 In each of these situations, during _four hours_, fifteen _Ov_ vehicles interact with _Ev_ performing the collision maneuver. Each collision situation is simulated independently. During the simulations of collision situations records are made of the random variables' states determined (_Lane (L), Vehicle direction (Vd) and Location (Lc)_). The records obtained by each simulation were joined in a single file (dataset.csv) at the end of the simulations. Then, in this final file, the states of the random variables _Lane, Vehicle direction and Location_ are used to obtain the states of the hypothesis variable (_Decision_).
 
