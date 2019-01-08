@@ -4,12 +4,6 @@
 #
 #    Created by: Andrés Eduardo Gómez Hernandez
 #
-#    Mobile Robotics Laboratory (LRM)
-# 
-#    http://www.lrm.icmc.usp.br/en/?page=home
-#
-#    ICMC/USP Sao Carlos-Brazil
-#
 ###############################################################################
 
 CPD variable Decision in the slide t-1 (D_1)
