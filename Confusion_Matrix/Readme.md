@@ -1,6 +1,6 @@
 # Introduction
 
-In this folder, you can find the dataset used for each confusion matrix in the paper.
+In this folder, you can find the dataset used for each confusion matrix.
 
 In the files, the states for each variable are defined as:
 
